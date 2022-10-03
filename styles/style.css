@@ -1,0 +1,63 @@
+
+/*
+
+header {
+    background-color: blue;
+}
+
+nav {
+    background-color: orange;
+    }
+
+section {
+    background-color: grey;
+}
+
+.Articulos { 
+    background-color:rgb(226, 162, 43);
+}
+.Artistas { 
+    background-color: rgb(244, 15, 15);
+}
+
+footer{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;  
+}
+
+.pie {
+    display: inline;
+    }
+
+    */
+
+
+    body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;}
+
+    h1, h2, h3 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+    header {
+        
+        list-style: none;
+    }
+
+    ul {list-style: none;
+    background-color: rgb(238, 227, 227);
+    color: rgb(0, 0, 0);
+   
+    }
+
+    .pie{
+        display: inline;
+    }
+    
+    a {
+        background-color: powderblue;
+        transition: background-color .5s;
+        }
+                  
+        a:hover {
+        background-color: gold;
+        }
